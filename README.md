@@ -1,4 +1,4 @@
 template1
 =========
 
-thanx sanusart.github.io
+thanx http://sanusart.github.io/html-now/
